@@ -10,6 +10,7 @@ namespace GithubHello.Client
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ramy Client Consumer");
         }
     }
 }
